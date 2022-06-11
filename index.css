@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to right, rgb(71, 74, 77) , rgba(57, 86, 165, 0.85));
+}
+
+header{
+    text-align: center;
+    font-size: 1.5em;
+    padding: 10px;
+}
+.inputTxt{
+    display: flex;
+    justify-content: center;    
+}
+
+#avatar{
+    display: flex;
+    margin: auto;
+    padding: 20px;
+    height: 190px;
+    width: 200px;
+    border-radius: 120px;
+}
+#avatar{
+    display: none;
+}
+#sec02 > input{
+    
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+}
